@@ -125,9 +125,4 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform> 
-
-
-<!-- 	<gap:config-file platform="android" parent="/manifest"> <application
-	android:hardwareAccelerated="false" /> </gap:config-file> -->
-
 </widget>
